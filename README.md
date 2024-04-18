@@ -1,2 +1,0 @@
-# DevSecOps
-DevSecOps - Career Guidance
